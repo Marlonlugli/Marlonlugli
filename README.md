@@ -38,6 +38,6 @@
   
 </div>
   
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Marlonlugli/count.svg" /></p>
   
 ![snake gif](https://github.com/Marlonlugli/Marlonlugli/blob/output/github-contribution-grid-snake.svg)
