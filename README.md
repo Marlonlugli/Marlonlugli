@@ -4,9 +4,11 @@
 - 🌱 Estudando tecnologias com foco em DevOps
 - 📫 Contate-me no email: luglimarlon@gmail.com
 
+<div align="center">
   <a href="https://github.com/Marlonlugli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlonlugli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonlugli&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marlonlugli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonlugli&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Marlon-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
