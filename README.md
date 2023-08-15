@@ -5,10 +5,12 @@
 - 📫 Contate-me no email: luglimarlon@gmail.com
 
 <div align="center">
+  
   <a href="https://github.com/Marlonlugli">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlonlugli&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonlugli&theme=transparent&hide_border=false&&layout=compact"/>
   </a>
+  
 </div>
 
   <div style="display: inline_block"><br>
