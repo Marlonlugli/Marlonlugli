@@ -18,7 +18,6 @@
   <img align="center" alt="Marlon-Linux"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />      
   <img align="center" alt="Marlon-Docker"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
   <img align="center" alt="Marlon-Docker"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img align="center" alt="Marlon-Docker"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Marlon-Docker"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
   <img align="center" alt="Marlon-Docker"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Marlon-Docker"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
