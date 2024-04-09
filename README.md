@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marlon 👋
 
-- 🔭 Trabalho como Analista de Infraestrutura 
+- 🔭 Trabalho como DevOps Engineer
 - 🌱 Estudando tecnologias com foco em DevOps
 - 📫 Contate-me no email: luglimarlon@gmail.com
 
